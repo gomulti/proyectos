@@ -1,0 +1,5 @@
+[25-Sep-2017 11:49:14 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/gomserve/public_html/pruebas/gmg/wp-content/themes/gmg/index.php on line 17
+[25-Sep-2017 11:49:20 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/gomserve/public_html/pruebas/gmg/wp-content/themes/gmg/index.php on line 17
+[25-Sep-2017 11:51:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/gomserve/public_html/pruebas/gmg/wp-content/themes/gmg/index.php on line 17
+[25-Sep-2017 13:03:01 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/gomserve/public_html/pruebas/gmg/wp-content/themes/gmg/index.php on line 17
+[25-Sep-2017 13:03:02 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/gomserve/public_html/pruebas/gmg/wp-content/themes/gmg/index.php on line 17
